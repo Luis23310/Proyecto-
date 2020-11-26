@@ -30,7 +30,7 @@ The first image shows the mount in Proteus.
 
 ![ETE](https://user-images.githubusercontent.com/74250772/100328606-b7cbfc00-2f9a-11eb-9ec3-228540fb1afd.jpg)
 
-In second image a part of the circuit in operation is projected.
+In the second image a part of the circuit in operation is projected.
 
 
 
