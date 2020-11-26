@@ -22,7 +22,9 @@ The .rar file is downloaded, once it is downloaded, it is unzipped, then in MPLA
 To use it in Proteus, before doing so, you need to start the code in MPLAB X v4.15 to compile it. Once the previous task has been carried out, proceed to open the project in proteus and double-click, once you see the .cof file, the file is selected. Once selected, the project is started, which presents a small start message on its LCD and if the weather conditions and soil moisture are optimal to start the irrigation with the buttons, the time is set and proceeds to give Start with the Start button.
 
 
+## IMAGES.
 
+![alt text](http://url/to/img.png)
 
 
 
