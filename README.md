@@ -7,7 +7,7 @@ This is the final project for Digital Electronics II, which consists of an autom
 DATASHEET:
 https://ww1.microchip.com/downloads/en/devicedoc/39582b.pdf
 
-
+MPLAB X Version 4.15 and Proteus 8.9 were used.
 
 
 
